@@ -142,5 +142,13 @@
     "year": "2023_WS",
     "info": "Simpeler Test von RPG Mechanicken + custom localisationssystem",
     "status": "0"
+  },
+  {
+    "title": "Doors",
+    "folder": "Doors",
+    "author": "Sebastian Raith",
+    "year": "2023_WS",
+    "info": "Doors",
+    "status": "0"
   }
 ]
