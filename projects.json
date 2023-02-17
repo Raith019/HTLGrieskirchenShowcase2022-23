@@ -143,6 +143,14 @@
     "info": "Racing game",
     "status": "1"
   },
+  {
+    "title": "Door",
+    "folder": "FinishedGame",
+    "author": "Raith Sebastian",
+    "year": "2022_WS",
+    "info": "Doors",
+    "status": "0"
+  },
   {"title": "Pacman",
     "folder": "Pacman",
     "author": "Michael Pramendorfer",
